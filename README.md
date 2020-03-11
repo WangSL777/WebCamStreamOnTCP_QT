@@ -14,4 +14,5 @@ Create a server that received video streams over a TCP/IP. Create a UI to contro
 Create a client that capture video using web cam and send the video stream over a TCP/IP. Create a UI to control that client functionality which will be start/stop & record to file.
 
 
-To run executable files, need to download each release folder which contains necessary .dll files.
+
+To run executable files, need to download each release folder which contains necessary .dll files and .exe file. The recorded video files will be stored in the same directory where .exe files locates.
