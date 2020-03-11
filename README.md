@@ -6,7 +6,7 @@ build-webCamClient-Desktop_Qt_5_9_0_MinGW_32bit-Release\release\webCamClient.exe
 build-webCamServer-Desktop_Qt_5_9_0_MinGW_32bit-Release\release\webCamServer.exe is the executable server file.
 
 Task background:
-Create a server that received video streams over a TCP/IP. The server can also record that stream to a file.
-Create a UI to control that server functionality which will be start/stop & record to file.
+Create a server that received video streams over a TCP/IP. Create a UI to control that server functionality which will be start/stop & record to file.
+Create a client that capture video using web cam and send the video stream over a TCP/IP. Create a UI to control that client functionality which will be start/stop & record to file.
 
 To run executable files, need to download each release folder which contains necessary .dll files.
