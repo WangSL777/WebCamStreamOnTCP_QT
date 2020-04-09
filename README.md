@@ -1,5 +1,5 @@
 # WebCamStreamOnTCP_QT
-This is a simple QT project which implements stream video captured by web camera and recording
+This is a simple QT project which implements stream video captured by web camera and recording. This is a similar project with project: https://github.com/WangSL777/WebCamStreamOnTCP_Netbeans_Java, which is implemented in Netbeans platform using Java, while this project is implement in QT using C++.
 
 ## File description:
 - `webCamClient` folder contains c++ source code for client. 
